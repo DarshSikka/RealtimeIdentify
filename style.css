@@ -1,0 +1,29 @@
+b {
+    color: rgba(0, 255, 200, 0.8);
+    background-color: whitesmoke;
+    font-weight: 900;
+    font-size: 15pt;
+}
+
+body {
+    text-align: center;
+    background-image: url(bg.jpg);
+    background-color: skyblue;
+}
+
+hr {
+    border: 3px dotted blue;
+}
+
+button {
+    color: blue;
+    background-color: crimson;
+    border: 2pt dashed brown;
+    font-size: large;
+    margin: 12px;
+}
+
+h4 {
+    color: whitesmoke;
+    background-color: green;
+}
